@@ -1,4 +1,4 @@
-**1. Go to System environment variables
+`1. Go to System environment variables
 
 2. Create TOKEN 
 
@@ -8,4 +8,4 @@
 
 5. Enter your channel_id
 
-6. Run**
+6. Run`
